@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TwinderServer:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TwinderServer_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TwinderServer" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="TwinderServer/web/Web" />
+    </root>
+  </artifact>
+</component>
