@@ -1,3 +1,6 @@
+# CQRS Architecture 
+<img width="2004" alt="image" src="https://github.com/renxinx/ScalableTwinder/assets/90580890/fa6aa7eb-f928-4cfa-9d5c-8358c59a5d03">
+
 # Assignment 1 Report
 
 ## Description of Client Design
